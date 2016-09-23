@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lista de Itens</string>
+    <string name="add">Adicionar</string>
+
+    <string-array name="categorias">
+        <item>Alimento</item>
+        <item>Bebida</item>
+        <item>Higiene e Saúde</item>
+        <item>Eletrônico</item>
+        <item>Papelaria</item>
+    </string-array>
+
+    <string name="nome_item">Nome do Item:</string>
+    <string name="categoria_item">Categoria:</string>
+    <string name="quantidade_item">Quantidade:</string>
+    <string name="preco_unitario">Preço Unitário:</string>
+    <string name="preco_total">Preço Total:</string>
+    <string name="save_button">Salvar</string>
+    <string name="cancel_button">Cancelar</string>
+
+</resources>
